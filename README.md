@@ -1,12 +1,12 @@
 # can_picking_robot
 
 ## Requirements:
->Ubuntu 22.04 LTS
->ROS-Humble
->Gazebo (for simulation)
->Moveit Assistant (to control the joints of the robot)
->Rviz2
->Tensorflow & Keras
+1.Ubuntu 22.04 LTS
+2.ROS-Humble
+3.Gazebo (for simulation)
+4.Moveit Assistant (to control the joints of the robot)
+5.Rviz2
+6.Tensorflow & Keras
 
 
 A demo of how the robot looks like and operates
