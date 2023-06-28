@@ -2,10 +2,15 @@
 
 ## Requirements:
 1.Ubuntu 22.04 LTS
+
 2.ROS-Humble
+
 3.Gazebo (for simulation)
+
 4.Moveit Assistant (to control the joints of the robot)
+
 5.Rviz2
+
 6.Tensorflow & Keras
 
 
