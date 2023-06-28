@@ -22,5 +22,5 @@ A demo of how the robot looks like and operates
 The objective of this robot is to be able to detect if there is any coca-cola can in front of it, and move towards it accordingly. After moving near it, the joints bend so that the gripper can pick the can up and the can should then be taken. 
 However the task is quite complex since the robot not only has to navigate, but also control the joints after detecting the distance from the object and pick it up. 
 
-##Future Work
+## Future Work
 The model can be run in a better way and we can try including more packages if we wish to give the robot more functionalities.
